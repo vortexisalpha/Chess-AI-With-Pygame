@@ -1,5 +1,5 @@
 # Chess-AI-Game
-This uses the artificial intelligence minimax algorithm to provide an opponent for a user over a chess game. From top to bottom created by me, I even drew the pieces!
+This uses the artificial intelligence minimax algorithm to provide an opponent for a user in a chess game.
 
 How To Use:
 
