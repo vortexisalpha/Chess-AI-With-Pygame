@@ -1,6 +1,9 @@
 # Chess-AI-Game
 This uses the artificial intelligence minimax algorithm to provide an opponent for a user in a chess game.
 
+PLEASE SEE 150+ PAGE DOCUMENTATION ON THE CREATION PROCESS OF THIS PROJECT:
+https://docs.google.com/document/d/1l5cVo6uSMD161v30vSc9YfMNAgIqU8jQ/edit?usp=sharing&ouid=101183428066647051502&rtpof=true&sd=true
+
 How To Use:
 
 The file to start program would be: LoginGUI.py (can start with main.py to exclude the login system)
