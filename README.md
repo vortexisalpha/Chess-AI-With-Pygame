@@ -19,6 +19,6 @@ To run the code place the file on your desktop and type in terminal the followin
 
 Cd desktop
 
-Cd 'ChessNEA'
+Cd 'ChessNEA With Depth AI copy 3'
 
 Python3.10 LoginGUI.py / Python3 LoginGUI.py / Python LoginGUI.py 
